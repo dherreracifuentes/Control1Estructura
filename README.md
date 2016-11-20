@@ -1,2 +1,8 @@
-# Control1Estructura
-Control 1 Estructura de Datos
+# Control1-EstructuraDeDatos
+
+  Control Estructura de Datos :
+  
+  - heap.c
+  - main.c
+  - heap.h
+  
